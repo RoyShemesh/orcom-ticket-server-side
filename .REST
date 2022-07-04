@@ -1,0 +1,9 @@
+POST http://localhost:8080/addTicket
+Content-Type: application/json
+
+{
+    "subject":"Error",
+    "description":"Error ouch",
+    "email":"abc@gmail.com",
+    "name":"Roy"
+}
